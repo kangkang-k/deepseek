@@ -1,0 +1,11 @@
+{
+    "hello": {
+        "session_id": "hello",
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant."
+            }
+        ]
+    }
+}
